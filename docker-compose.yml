@@ -1,0 +1,12 @@
+version: '3.9'
+
+services:
+  bot:
+    container_name: cryptogram
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: cryptogram
+    restart: always
+    env_file:
+      - .env
