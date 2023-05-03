@@ -5,7 +5,7 @@
 
 **CyptoGram** is a Telegram Bot build with `Python` using `python-telegram-bot` library, which gives you the latest price of the crypto currency you want to know about.
 
-https://user-images.githubusercontent.com/51878265/235898823-a93ce02f-75da-425c-945c-61a4b1362183.mov
+https://user-images.githubusercontent.com/51878265/235900111-006cf7d3-76be-4d4e-9456-617e74f0de35.mov
 
 ### 👨‍💻 Using the Bot
 
